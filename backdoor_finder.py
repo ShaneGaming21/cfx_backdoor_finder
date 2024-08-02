@@ -33,7 +33,7 @@ patterns = [
     r'_G'
 ]
 
-project_path = r'C:\Users\User\Pictures\done\New folder' # Path to the project folder
+project_path = r'D:\qbv20\txData\QBCoreFramework_8D9D16.base\resources' # Path to the project folder
 output_file = 'matches.txt'
 
 search_files(project_path, patterns, output_file)
